@@ -19,8 +19,9 @@ function setup() {
     
 }
 
+
 function draw() {
-    print(Code by Chelsea Knox);
+    //console.log(Code by Chelsea Knox);
     //move image by it width left
     translate(vidCapt.width, 0);
     //scale it by -1 on x-axis to flip it
